@@ -42,4 +42,4 @@ Bu projede nasıl veri tabanı ve tablolar oluşturuluru işledim. Ado.net kulla
 
 📌 PROJE-10: Veri Tabanı - CRUD 
 
-Bu proje dersinde Ado.net ile listeleme, güncelleme, silme ve ekleme metotlarının nasıl yapılacağını öğrendim. 
+Bu proje dersinde Ado.net ile veri tabanı bağlantısı yaparak listeleme, güncelleme, silme ve ekleme metotlarının nasıl yapılacağını öğrendim. 
